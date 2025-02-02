@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com:sambit826059/website-agent.git",
   "author": "sambit826059 <sambitmohanty19472gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0"
+  }
 }
